@@ -2,13 +2,11 @@
 
 Welcome to my page, I'm a fullstack developer, [Youtuber](https://youtube.com/joshuablais), and [author](https://joshblais.com) working on various projects using:
 
-<p align="center">
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Doom_Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Datastar](https://img.shields.io/badge/Datastar-000000?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-</p>
 
 
 <!-- Social badges section -->
