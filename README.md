@@ -6,6 +6,7 @@ Welcome to my page, I'm a fullstack developer, [Youtuber](https://youtube.com/jo
 ![Emacs](https://img.shields.io/badge/Doom_Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Catholic](https://img.shields.io/badge/Catholic-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4em0tMi0xM2gtMXY2aDZ2LTFoLTV6Ii8+PC9zdmc+)
 
 
 <!-- Social badges section -->
